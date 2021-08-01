@@ -1,0 +1,24 @@
+{
+  "name": "simpleGraphQL-demo",
+  "version": "1.0.0",
+  "description": "This simple GraphQL demo uses Apollo server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renebohne/simpleGraphQL-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renebohne/simpleGraphQL-demo/issues"
+  },
+  "homepage": "https://github.com/renebohne/simpleGraphQL-demo#readme",
+  "dependencies": {
+    "apollo-server": "^3.1.1",
+    "graphql": "^15.5.1"
+  }
+}
